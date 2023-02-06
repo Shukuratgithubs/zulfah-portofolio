@@ -1,0 +1,97 @@
+*{padding:0;
+    margin:0; 
+  }
+  body{
+      padding: 0px 90px
+  }
+  nav{
+      display: flex;
+      justify-content: space-between;
+      padding:20px 0px;
+  }
+  ul{
+      display: flex;
+      gap: 40px;
+      list-style-type: none;
+  }
+  a{
+      text-decoration: none;
+      color: black;
+  }
+  #hero{
+    display: flex;
+      gap:10%
+    
+  }
+  #red-font{
+      color:brown
+  }
+  .circle{  
+    width:200px;
+      height:200px;
+      border:1px solid black;
+      border-radius: 50%;
+      background-color: indianred;
+      position: relative;
+      top: 20px;
+      left: 20px;
+  }
+    button{
+        border-radius:70px;
+    }
+    .container{
+        display: flex;
+       justify-content: center;
+       align-items: center;
+       gap:16px;
+       border: 2px solid red;
+       height: 250px;
+       background-color: coral;
+    } 
+    .ui/ux Designer, .Logo Design{
+        text-align: center;
+        height: 2500px;
+        width: 200px;
+        border: 5px solid black;
+    }
+    .Illustration{
+        text-align: center;
+    background: pink;
+    border: 5px solid whitesmoke;
+    }
+    button{
+        border-radius: 50px;
+    }
+    /* span{
+        font-size: 24px;
+        border:2px solid black;
+        padding-inline: 14px;
+        
+    } */
+    .container1{
+        display: flex;
+       justify-content: center;
+       align-items: center;
+       gap:50px;
+       border: 2px solid palevioletred;
+       height: 300px;
+       background-color: peachpuff;
+    } 
+    .ABOUT ME{
+    text-align: center;
+    border: 5px solid greenyellow;
+    height: 30px;
+    width: 25px;
+    }
+    .Any type of question{
+        text-align: center;
+        border: 10px solid blue;
+        height: 30px;
+        width: 25px;
+        }
+    /* span{
+        font-size: 24px;
+        border:5px solid black;
+        padding-inline: 14px;
+        
+    } */
